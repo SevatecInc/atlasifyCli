@@ -15,7 +15,7 @@ limitations under the License.
 */
 package main
 
-import "github.com/sevatecInc/atlasifyCli/cmd"
+import "github.com/SevatecInc/atlasifyCli/cmd"
 
 func main() {
 	cmd.Execute()
