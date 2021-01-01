@@ -30,7 +30,7 @@ var cfgFile string
 var rootCmd = &cobra.Command{
 	Use:   "atlasify-cli",
 	Short: "A command line interface to the Atlasity APIs",
-	Long:  `atlasify-cli is a CLI library for that simplifies using the REST API interface for C2Labs Atlasity.`,
+	Long:  `atlasify-cli is a CLI library that simplifies using the REST API interface for C2Labs Atlasity.`,
 	// Uncomment the following line if your bare application
 	// has an action associated with it:
 	//	Run: func(cmd *cobra.Command, args []string) { },
